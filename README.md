@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shahed Chy Suzan](https://shahedchysuzan.xyz/)!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shahed Chy Suzan](https://shahedchysuzan.xyz/)!
 
 I’m a self-taught web tech enthusiast and Laravel,Vue.js Developer 💻. I am passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
 
@@ -7,7 +7,7 @@ I’m a self-taught web tech enthusiast and Laravel,Vue.js Developer 💻. I am 
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've picked up along my learning journey.<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
