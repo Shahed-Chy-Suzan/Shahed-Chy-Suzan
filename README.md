@@ -14,14 +14,16 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=flat-square&logo=NuxtJS&logoColor=white"/>
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)
+<img src="https://img.shields.io/badge/Vuetify%20-%23F24E1E.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -37,7 +39,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <p align="center">
 <a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://shahedchysuzan.xyz/"><img src="https://img.shields.io/badge/-Website-1877F2?style=flat&logo=Globe&logoColor=white"/></a>
 <a href="https://www.instagram.com/shahed_chy_suzan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
