@@ -7,9 +7,9 @@ I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻. I’
 ## 🛠 &nbsp;Tech Stack
 
 Here are a few things I've picked up along my learning journey.<br><br>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) &nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) &nbsp;
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap) &nbsp;
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/> &nbsp;
