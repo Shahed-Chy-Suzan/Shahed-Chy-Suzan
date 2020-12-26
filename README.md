@@ -21,14 +21,14 @@ Here are a few things I've picked up along my learning journey.<br><br>
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&logoColor=00599C)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Shahed-Chy-Suzan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahed-Chy-Suzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahed-Chy-Suzan&layout=compact&theme=algolia&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahed-Chy-Suzan&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
 </a>
 </p>
 
