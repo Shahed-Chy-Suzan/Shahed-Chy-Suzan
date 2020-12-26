@@ -23,7 +23,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)
-<img src="https://img.shields.io/badge/Vuetify%20-%23F24E1E.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify%20-%231572B6.svg?&style=flat-square&logo=vuetify&logoColor=white"/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
