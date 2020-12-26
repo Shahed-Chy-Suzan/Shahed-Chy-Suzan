@@ -4,7 +4,7 @@ I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻. I am
 
 #### 🔭 I’m currently looking for new opportunities. Available for Work.
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 Here are a few things I've picked up along my learning journey.<br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -22,7 +22,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=red)
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Shahed-Chy-Suzan">
@@ -31,7 +31,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
