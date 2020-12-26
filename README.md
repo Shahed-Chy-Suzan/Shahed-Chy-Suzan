@@ -14,16 +14,18 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Vuex%20-%231572B6.svg?&style=flat-square&logo=vuex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-Router%20-%231572B6.svg?&style=flat-square&logo=vue-router&logoColor=white"/>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<img src="https://img.shields.io/badge/Vuetify%20-%231572B6.svg?&style=flat-square&logo=vuetify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuxt.JS%20-purple.svg?&style=flat-square&logo=nuxtjs&logoColor=white"/>
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)
-<img src="https://img.shields.io/badge/Vuetify%20-%231572B6.svg?&style=flat-square&logo=vuetify&logoColor=white"/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
