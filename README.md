@@ -17,7 +17,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)
