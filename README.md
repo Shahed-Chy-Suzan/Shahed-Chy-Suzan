@@ -1,11 +1,11 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shahed Chy Suzan](https://shahedchysuzan.xyz/)!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shahed Chy Suzan](https://shahedchysuzan.xyz/)
 
 I’m a self-taught web tech enthusiast and Laravel,Vue.js Developer 💻. I am passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
 
 #### 🔭 I’m currently looking for new opportunities. Available for Work.
 
 
-## ⚡ Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 Here are a few things I've picked up along my learning journey.<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -16,21 +16,31 @@ Here are a few things I've picked up along my learning journey.<br>
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<!--
-**Shahed-Chy-Suzan/Shahed-Chy-Suzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/Shahed-Chy-Suzan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahed-Chy-Suzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahed-Chy-Suzan&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
+### 🤝🏻 &nbsp;Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-@Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/shahed_chy_suzan/"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+## &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
+
