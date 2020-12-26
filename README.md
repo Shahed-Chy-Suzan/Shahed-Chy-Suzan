@@ -15,8 +15,6 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
 <img src="https://img.shields.io/badge/Vuex%20-%231572B6.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Vue_Router-CA4245?style=for-the-badge&logo=vue-router&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/vuex-593D88?style=for-the-badge&logo=vuex&logoColor=white"/>&nbsp;
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)&nbsp;
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
