@@ -23,6 +23,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=red)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/Shahed-Chy-Suzan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahed-Chy-Suzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -38,7 +39,7 @@ Here are a few things I've picked up along my learning journey.<br><br>
 <a href="https://www.instagram.com/shahed_chy_suzan/"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-## &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## &nbsp;Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
 
