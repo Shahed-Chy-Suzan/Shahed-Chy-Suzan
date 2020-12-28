@@ -45,6 +45,3 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="https://shahedchysuzan.xyz/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
 
-
-## 👀 &nbsp;Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
