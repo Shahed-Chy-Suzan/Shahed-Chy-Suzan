@@ -29,7 +29,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-
 ![Suzan's github stats](https://github-readme-stats.vercel.app/api?username=Shahed-Chy-Suzan&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
 
 ## 🤝🏻 &nbsp;Connect with Me
