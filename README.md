@@ -35,9 +35,9 @@ Here are a few things I've picked up along my learning journey : <br><br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahed-Chy-Suzan&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
 </a>
 </p>
+![Suzan's github stats](https://github-readme-stats.vercel.app/api?username=Shahed-Chy-Suzan&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
 
 ## 🤝🏻 &nbsp;Connect with Me
-
 
 <a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
