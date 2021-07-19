@@ -42,7 +42,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://shahedchysuzan.xyz/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://shahed-chy-suzan.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shahed-chy-suzan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/shahed_chy_suzan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -50,5 +50,6 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="https://github.com/Shahed-Chy-Suzan"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
 <a href="https://gitlab.com/Shahed-Chy-Suzan"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/WYGiqlVW8ttW"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
+<a href="https://m.me/Shahedchysuzan"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
 
