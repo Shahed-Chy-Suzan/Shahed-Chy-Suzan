@@ -16,7 +16,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
 <img src="https://img.shields.io/badge/Vuex%20-%231572B6.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Vuetify%20-%231572B6.svg?&style=flat-square&logo=vuetify&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/>&nbsp;
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)&nbsp;
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
