@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm [Shahed Chy Suzan](https://shahed-chy-suzan.github.io/)
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Hello, I'm [Shahed Chy Suzan](https://shahed-chy-suzan.github.io/)
 
 I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻. I’m passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
 
