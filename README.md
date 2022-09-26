@@ -1,8 +1,18 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Hello, I'm [Shahed Chy Suzan](https://shahed-chy-suzan.github.io/)
 
-I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻. I’m passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
+I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻 from Bangladesh. I’m passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
 
-#### 🔭 I’m currently looking for new opportunities. Available for Work.
+## 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I'm passionate about Web Dev & like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I've completed my B.Sc in Computer Science and Engineering.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can knock me an email at shahedchysuzan@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://shahed-chy-suzan.github.io) for more details about me. I'm open to feedback and suggestions!\
+🔭 I’m currently looking for new opportunities. Available for Work.
+
+<!-- #### 🔭 I’m currently looking for new opportunities. Available for Work. -->
 
 ## 🛠 &nbsp;Tech Stack
 
