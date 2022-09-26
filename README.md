@@ -11,6 +11,7 @@ Here are a few things I've picked up along my learning journey : <br><br>
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
@@ -23,10 +24,10 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat-square&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-F29111?style=flat-square&logo=gitlab)&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
-![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
 
 
 ## ⚙️ &nbsp;GitHub Analytics
