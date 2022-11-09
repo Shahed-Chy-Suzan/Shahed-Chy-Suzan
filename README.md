@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Hello, I'm [Shahed Chy Suzan](https://shahed-chy-suzan.github.io/)
 
-I’m a self-taught web tech enthusiast and Laravel, Vue.js Developer 💻 from Bangladesh. I’m passionate about technologies and love to learn new things. I am trying to be more creative and will come back soon with something unique...
+I’m a self-taught web tech enthusiast, Open source fanatic and Laravel, Vue.js Developer 💻 from Bangladesh. I’m passionate about technologies and love to learn new things. I prefer working in the back-end though I have an intermediate label grasp over the front-end part. I love to code with Laravel and Vue.js, Nuxt.js also interested in frameworks like Node.js etc. I am trying to be more creative and will come back soon with something unique...
 
 
 
